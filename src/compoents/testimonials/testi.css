@@ -1,0 +1,35 @@
+.clientBox .text p{
+  font-size: 18px;
+  line-height: 35px;
+}
+
+.clientDetails {
+  display: flex;
+}
+.clientDetails img{
+  border: none;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+
+}
+
+.clientDetails .name{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+ padding: 15px;
+}
+
+.first_testmonial_box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: CENTER;
+}
+
+.first_testmonial_box img{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}

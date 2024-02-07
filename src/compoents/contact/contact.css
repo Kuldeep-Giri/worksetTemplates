@@ -1,0 +1,49 @@
+.leftBox{
+    background-color: #f3c242;
+    padding: 60px;
+}
+
+.contactDetails .icon{
+   width: 50px;
+   height: 50px;
+   background-color: #000;
+   border-radius: 50%;
+
+}
+.contactDetails .icon p{
+   font-size: 24px;
+   color:#fff;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   height: 100%;
+ }
+
+ .contactDetails .number{
+    font-size: 24px;
+ letter-spacing: 3px;
+ padding: 5px 20px;
+    
+  }
+ .rightBox{
+    padding: 20px;
+ }
+  .rightBox input[type="text"],input[type="email"]{
+    height: 55px;
+    border-radius: none;
+    margin-top: 27px;
+    
+  }
+  .contactBtn{
+    margin-top: 27px;
+    font-size: 24px;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    background-color: transparent;
+    border: 2px solid #f3c242;
+    color: #f3c242;
+  }
+
+
+
